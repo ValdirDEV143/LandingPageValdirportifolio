@@ -45,10 +45,10 @@
     align-items: center;
 }
 .banner img{
-    width: 80%;
+    width: 60%;
 }
 .shape{
-    background-color: var(--color-primary-3);
+    /* background-color: var(--color-primary-3); */
     height: 100%;
     width: 50%;
     position: absolute;
