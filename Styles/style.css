@@ -81,3 +81,6 @@ transition: box-shadow 0.3 ease;
             top: 30px;
         }
 }
+.body{
+    background-color: magenta;
+}

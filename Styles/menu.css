@@ -28,10 +28,6 @@
     font-weight: 600;
    
 }
-/* .nav-item.active a{
-    color: var(--color-neutra-0);
-    border-bottom: 3px solid var(--color-primary-4); 
-} */
 .mobile_btn, .mobile_menu{
     display: none;
 }
